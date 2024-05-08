@@ -1,10 +1,11 @@
 import './App.css'
+import Header from './components/Header'
 
 export default function App() {
   return (
     <main>
       <div>
-        <h1>Fake Store</h1> 
+        <Header />
       </div>  
     </main>
   )
